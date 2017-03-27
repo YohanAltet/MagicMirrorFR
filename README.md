@@ -20,7 +20,7 @@ Partie en cours d'écriture
 Vous trouverez ci-dessous la liste des changements par rapport aux fichiers d'origine.
 
 | **Fichier -> paramètre** | **Description** |
-| --- | --- | --- |
+| --- | --- |
 | `MagicMirror/config/config.js -> language` | Changement de la langue en français |
 | `MagicMirror/config/config.js -> calendar/header` | Remplacement du titre "US Holidays" par "Calendrier" |
 | `MagicMirror/config/config.js -> calendar/url` | Remplacement du calendrier des jours feriés américains par ceux français |
