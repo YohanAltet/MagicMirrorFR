@@ -21,16 +21,16 @@ Vous trouverez ci-dessous la liste des changements par rapport aux fichiers d'or
 
 | **Fichier -> paramètre** | **Description** |
 | --- | --- |
-| `MagicMirror/config/config.js -> language` | Changement de la langue en français |
-| `MagicMirror/config/config.js -> calendar/header` | Remplacement du titre "US Holidays" par "Calendrier" |
-| `MagicMirror/config/config.js -> calendar/url` | Remplacement du calendrier des jours feriés américains par ceux français |
-| `MagicMirror/config/config.js -> currentweather/location` | Remplacement de "New-York" par "Aix-en-Provence" |
-| `MagicMirror/config/config.js -> currentweather/locationID` | Remplacement de l'ID de "New-York" par celui de "Aix-en-Provence" |
-| `MagicMirror/config/config.js -> weatherforecast/header` | Remplacement de "Xeather Forecast" par "Prévisions Météo" |
-| `MagicMirror/config/config.js -> weatherforecast/location` | Remplacement de "New-York" par "Aix-en-Provence" |
-| `MagicMirror/config/config.js -> weatherforecast/locationID` | Remplacement de l'ID de "New-York" par celui de "Aix-en-Provence" |
-| `MagicMirror/config/config.js -> newsfeed/title` | Remplacement du titre "New-York Times" par "Le Monde" |
-| `MagicMirror/config/config.js -> newsfeed/url` | Remplacement du flux RSS du "New-York Times" par celui de "Le Monde" |
-| `MagicMirror/modules/default/compliments/compliments.js -> morning` | Traduction des phrases d'origine |
-| `MagicMirror/modules/default/compliments/compliments.js -> afternoon` | Traduction des phrases d'origine |
-| `MagicMirror/modules/default/compliments/compliments.js -> evening` | Traduction des phrases d'origine |
+| `MagicMirror/config/config.js` -> `language` | Changement de la langue en français |
+| `MagicMirror/config/config.js` -> `calendar/header` | Remplacement du titre "US Holidays" par "Calendrier" |
+| `MagicMirror/config/config.js` -> `calendar/url` | Remplacement du calendrier des jours feriés américains par ceux français |
+| `MagicMirror/config/config.js` -> `currentweather/location` | Remplacement de "New-York" par "Aix-en-Provence" |
+| `MagicMirror/config/config.js` -> `currentweather/locationID` | Remplacement de l'ID de "New-York" par celui de "Aix-en-Provence" |
+| `MagicMirror/config/config.js` -> `weatherforecast/header` | Remplacement de "Xeather Forecast" par "Prévisions Météo" |
+| `MagicMirror/config/config.js` -> `weatherforecast/location` | Remplacement de "New-York" par "Aix-en-Provence" |
+| `MagicMirror/config/config.js` -> `weatherforecast/locationID` | Remplacement de l'ID de "New-York" par celui de "Aix-en-Provence" |
+| `MagicMirror/config/config.js` -> `newsfeed/title` | Remplacement du titre "New-York Times" par "Le Monde" |
+| `MagicMirror/config/config.js` -> `newsfeed/url` | Remplacement du flux RSS du "New-York Times" par celui de "Le Monde" |
+| `MagicMirror/modules/default/compliments/compliments.js` -> `morning` | Traduction des phrases d'origine |
+| `MagicMirror/modules/default/compliments/compliments.js` -> `afternoon` | Traduction des phrases d'origine |
+| `MagicMirror/modules/default/compliments/compliments.js` -> `evening` | Traduction des phrases d'origine |
