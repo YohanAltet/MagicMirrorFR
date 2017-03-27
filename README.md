@@ -19,5 +19,5 @@ Partie en cours d'écriture
 
 Vous trouverez ci-dessous la liste des changements par rapport au fichiers d'origine.
 
-| **Fichier** | **Paramètre** | **Description |
+| **Fichier** | **Paramètre** | **Description** |
 | --- | --- | --- |
