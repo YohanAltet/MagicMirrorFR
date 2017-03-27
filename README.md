@@ -23,10 +23,11 @@ Vous trouverez ci-dessous la liste des changements par rapport aux fichiers d'or
 | --- | --- |
 | `MagicMirror/config/config.js` - `language` | Changement de la langue en français |
 | `MagicMirror/config/config.js` - `calendar/header` | Remplacement du titre "US Holidays" par "Calendrier" |
+| `MagicMirror/config/config.js` - `calendar/symbol` | Remplacement du picto du calendrier par celui du soleil, plus en accord avec les jours feriés |
 | `MagicMirror/config/config.js` - `calendar/url` | Remplacement du calendrier des jours feriés américains par ceux français |
 | `MagicMirror/config/config.js` - `currentweather/location` | Remplacement de "New-York" par "Aix-en-Provence" |
 | `MagicMirror/config/config.js` - `currentweather/locationID` | Remplacement de l'ID de "New-York" par celui de "Aix-en-Provence" |
-| `MagicMirror/config/config.js` - `weatherforecast/header` | Remplacement de "Xeather Forecast" par "Prévisions Météo" |
+| `MagicMirror/config/config.js` - `weatherforecast/header` | Remplacement de "Weather Forecast" par "Prévisions Météo" |
 | `MagicMirror/config/config.js` - `weatherforecast/location` | Remplacement de "New-York" par "Aix-en-Provence" |
 | `MagicMirror/config/config.js` - `weatherforecast/locationID` | Remplacement de l'ID de "New-York" par celui de "Aix-en-Provence" |
 | `MagicMirror/config/config.js` - `newsfeed/title` | Remplacement du titre "New-York Times" par "Le Monde" |
