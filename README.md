@@ -5,5 +5,5 @@
 ## Procédure
 
 ### Installation de MagicMirror²
-Avant toute chose il est nécessaire d'installer **MagicMirror²** en suivant la procédure sur le site original :
+Avant toute chose il est nécessaire d'installer **MagicMirror²** en suivant la procédure sur le site original :`
 [MagicMirror²](https://github.com/MichMich/MagicMirror)
