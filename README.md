@@ -1,6 +1,6 @@
 ![MagicMirror²: The open source modular smart mirror platform. ](https://github.com/MichMich/MagicMirror/blob/master/.github/header.png)
 
-**MagicMirror²FR** est un repos pour paramétrer simplement **MagicMirror²** en français. Il créé ou remplace le fichier config.js d'origine ainsi que d'autres fichiers pouvant nécessiter une traduction.
+**MagicMirror²FR** est un repos pour paramétrer simplement **MagicMirror²** en français. Il créé ou remplace le fichier config.js d'origine ainsi que d'autres fichiers nécessitant une traduction.
 
 ## Procédure
 
@@ -21,3 +21,7 @@ Vous trouverez ci-dessous la liste des changements par rapport au fichiers d'ori
 
 | **Fichier** | **Paramètre** | **Description** |
 | --- | --- | --- |
+| `MagicMirror/config/config.js` | `language` | Changement de la langue en français |
+| `MagicMirror/config/config.js` | `calendar/header` | Remplacement du titre "US Holidays" par "Calendrier" |
+| `MagicMirror/config/config.js` | `calendar/url` | Remplacement du calendrier des jours feriés Us par ceux français |
+| `MagicMirror/config/config.js` | `currentweather/location` | Remplacement de "New-York" par "Aix-en-Provence" |
