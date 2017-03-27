@@ -1,5 +1,9 @@
 ![MagicMirror²: The open source modular smart mirror platform. ](https://github.com/MichMich/MagicMirror/blob/master/.github/header.png)
 
-**MagicMirrorFR** est un repos pour paramétrer simplement **MagicMirror²** en français.
+**MagicMirror²FR** est un repos pour paramétrer simplement **MagicMirror²** en français.
 
-## Installation de **MagicMirror²**
+## Procédure
+
+### Installation de MagicMirror²
+Avant toute chose il est nécessaire d'installer **MagicMirror²** en suivant la procédure sur le site original :
+![MagicMirror²](https://github.com/MichMich/MagicMirror)
