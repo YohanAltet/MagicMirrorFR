@@ -17,24 +17,24 @@ Partie en cours d'écriture
 
 ## Modifications
 
-Vous trouverez ci-dessous la liste des changements par rapport aux fichiers d'origine.
+Vous trouverez ci-dessous la liste des changements par rapport aux fichiers d'origine (dans le dossier `MagicMirror/`).
 
 | **Fichier** - **Paramètre** | **Description** |
 | --- | --- |
-| `MagicMirror/config/config.js` - `language` | Changement de la langue en français |
-| `MagicMirror/config/config.js` - `calendar/header` | Remplacement du titre "US Holidays" par "Calendrier" |
-| `MagicMirror/config/config.js` - `calendar/symbol` | Remplacement du picto du calendrier par celui du soleil, plus en accord avec les jours feriés |
-| `MagicMirror/config/config.js` - `calendar/url` | Remplacement du calendrier des jours feriés américains par ceux français |
-| `MagicMirror/config/config.js` - `currentweather/location` | Remplacement de "New-York" par "Aix-en-Provence" |
-| `MagicMirror/config/config.js` - `currentweather/locationID` | Remplacement de l'ID de "New-York" par celui de "Aix-en-Provence" |
-| `MagicMirror/config/config.js` - `weatherforecast/header` | Remplacement de "Weather Forecast" par "Prévisions Météo" |
-| `MagicMirror/config/config.js` - `weatherforecast/location` | Remplacement de "New-York" par "Aix-en-Provence" |
-| `MagicMirror/config/config.js` - `weatherforecast/locationID` | Remplacement de l'ID de "New-York" par celui de "Aix-en-Provence" |
-| `MagicMirror/config/config.js` - `newsfeed/title` | Remplacement du titre "New-York Times" par "Le Monde" |
-| `MagicMirror/config/config.js` - `newsfeed/url` | Remplacement du flux RSS du "New-York Times" par celui de "Le Monde" |
-| `MagicMirror/modules/default/compliments/compliments.js` - `morning` | Traduction des phrases d'origine |
-| `MagicMirror/modules/default/compliments/compliments.js` - `afternoon` | Traduction des phrases d'origine |
-| `MagicMirror/modules/default/compliments/compliments.js` - `evening` | Traduction des phrases d'origine |
-| `MagicMirror/js/default.js` | Traduction des phrases d'origine |
+| `config/config.js` - `language` | Changement de la langue en français |
+| `config/config.js` - `calendar/header` | Remplacement du titre "US Holidays" par "Calendrier" |
+| `onfig/config.js` - `calendar/symbol` | Remplacement du picto du calendrier par celui du soleil, plus en accord avec les jours feriés |
+| `config/config.js` - `calendar/url` | Remplacement du calendrier des jours feriés américains par ceux français |
+| `config/config.js` - `currentweather/location` | Remplacement de "New-York" par "Aix-en-Provence" |
+| `config/config.js` - `currentweather/locationID` | Remplacement de l'ID de "New-York" par celui de "Aix-en-Provence" |
+| `config/config.js` - `weatherforecast/header` | Remplacement de "Weather Forecast" par "Prévisions Météo" |
+| `config/config.js` - `weatherforecast/location` | Remplacement de "New-York" par "Aix-en-Provence" |
+| `config/config.js` - `weatherforecast/locationID` | Remplacement de l'ID de "New-York" par celui de "Aix-en-Provence" |
+| `config/config.js` - `newsfeed/title` | Remplacement du titre "New-York Times" par "Le Monde" |
+| `config/config.js` - `newsfeed/url` | Remplacement du flux RSS du "New-York Times" par celui de "Le Monde" |
+| `modules/default/compliments/compliments.js` - `morning` | Traduction des phrases d'origine |
+| `modules/default/compliments/compliments.js` - `afternoon` | Traduction des phrases d'origine |
+| `modules/default/compliments/compliments.js` - `evening` | Traduction des phrases d'origine |
+| `js/default.js` | Traduction des phrases d'origine |
 
 **Note:** certains paramètres sont arbitrairement choisis, il convient que vous les adaptiez selon vos préférences. De plus, certains paramètres comme les clés API météo sont obligatoires et non fournis.
