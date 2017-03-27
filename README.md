@@ -1,6 +1,6 @@
 ![MagicMirror²: The open source modular smart mirror platform. ](https://github.com/MichMich/MagicMirror/blob/master/.github/header.png)
 
-**MagicMirror²FR** est un repos pour paramétrer simplement **MagicMirror²** en français. Il créé ou remplace le fichier config.js d'origine ainsi que d'autres fichiers nécessitant une traduction.
+**MagicMirror²FR** est un repos pour paramétrer simplement **MagicMirror²** en français. Il créé ou remplace le fichier config.js d'origine ainsi que d'autres fichiers importants nécessitant une traduction.
 
 ## Procédure
 
