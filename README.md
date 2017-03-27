@@ -34,3 +34,5 @@ Vous trouverez ci-dessous la liste des changements par rapport aux fichiers d'or
 | `MagicMirror/modules/default/compliments/compliments.js` - `morning` | Traduction des phrases d'origine |
 | `MagicMirror/modules/default/compliments/compliments.js` - `afternoon` | Traduction des phrases d'origine |
 | `MagicMirror/modules/default/compliments/compliments.js` - `evening` | Traduction des phrases d'origine |
+
+**Note:** certains paramètres sont arbitrairement choisis, il convient que vous les adaptiez selon vos préférences. De plus, certains paramètres comme les clés API météo sont obligatoires et non fournis.
